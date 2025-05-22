@@ -3,7 +3,7 @@ name:org.nikoyandere.yanix-launcher
 manifest version:0.2.2.6 public test
 developer:nikoyandere
 publisher:Yanix Launcher Community
-exec:python3 ~/.ucndata/packages/org.nikoyandere.yanix-launcher/yanix-launcher/binary/yanix-launcher.py
+exec:python3 ~/.ucndata/packages/org.nikoyandere.yanix-launcher/yanix-launcher/binary/yanix-launcher
 Dependencies
 (pacman)
 tk
