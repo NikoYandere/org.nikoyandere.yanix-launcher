@@ -1,0 +1,24 @@
+--UCN PACKAGE MANAGER MANIFEST--
+name:org.nikoyandere.yanix-launcher
+manifest version:0.2.2.6 public test
+developer:nikoyandere
+publisher:Yanix Launcher Community
+exec:python3 ~/.ucndata/packages/org.nikoyandere.yanix-launcher/yanix-launcher/binary/yanix-launcher.py
+Dependencies
+(pacman)
+tk
+wine
+python-pygame
+python-requests
+winetricks
+(apt)
+python3-tk
+wine
+python3-pygame
+python3-requests
+winetricks
+(dnf)
+python3-tkinter
+wine
+python3-pygame
+python3-requests
