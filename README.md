@@ -31,7 +31,10 @@ before distributing or running the launcher as an application.
 
 ## Repository Structure (simplified):
 
-/binary └── yanix-launcher.py         # Main launcher script └── data/                     # Contains resources and config files /README.md # This file /LICENSE                          # Open-source license
+/binary └── yanix-launcher.py         
+        └── data/                     # Contains resources and config files 
+/README.md # This file
+/LICENSE # Open-source license
 
 ## Project by:
 
